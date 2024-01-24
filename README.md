@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+page
+
+
+![page_1](https://github.com/VITianLalit/BloC_StateManagement_CounterApp.github.io/assets/98540540/eb84a2e0-96f9-4abf-a5db-1c9091c4fe5b)
+
